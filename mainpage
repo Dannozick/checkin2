@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport"content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+<head>
+<title>Index</title>
+</head>
+
+<body>
+<h1>First Main Point</h1>
+
+<p>This story tells us about why a British attack against Germans was delayed 10 days.</p>
+
+<p>Click here for more on the <a href="delay.html">delay.</a></p>
+
+<h2>Second Main Point</h2>
+
+<p>The spy's cover is blown, but he must complete his mission.</p>
+
+<p>Click here for more on the <a href="mission.html">mission.</a></p>
+
+<h3>Third Main Point</h3>
+
+<p>The main character finds the Garden of Forking Paths.</p>
+
+<p>Click here for more on the <a href="garden.html">garden.</a></p>
+
+</body>
+
+</html>
